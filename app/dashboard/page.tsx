@@ -16,7 +16,7 @@ import {
   CheckCircle,
   Clock,
 } from 'lucide-react';
-export const dynamic = "force-dynamic";
+
 export default function Dashboard() {
   const { user, profile, loading } = useAuth();
   const router = useRouter();
