@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CareerAI - AI-Powered Career Coach
 
 A full-stack Next.js application that provides personalized career coaching powered by AI. Built with React, TypeScript, Supabase, and Tailwind CSS.
@@ -171,3 +172,6 @@ This is a demonstration project. Feel free to fork and customize for your needs.
 ## License
 
 MIT License
+=======
+# Ai-Career-Coach
+>>>>>>> d58031cb849d12146dfea2f673ab7224e584a8f7
