@@ -9,7 +9,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/com
 import { useToast } from '@/hooks/use-toast';
 import Link from 'next/link';
 import { Briefcase } from 'lucide-react';
-
+export const dynamic = "force-dynamic";
 export default function SignIn() {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
