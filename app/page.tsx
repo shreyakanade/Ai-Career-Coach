@@ -12,7 +12,7 @@ import {
   CheckCircle,
   Briefcase,
 } from 'lucide-react';
-
+export const dynamic = "force-dynamic";
 export default function Home() {
   return (
     <div className="min-h-screen">
